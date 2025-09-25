@@ -35,4 +35,4 @@ aliyun:
   sms:
     access-key-id: ${aliyun.oss.access-key-id}
     access-key-secret: ${aliyun.oss.access-key-secret}
-    endpoint: ${aliyun.oss.endpoint}
+    endpoint: ${aliyun
